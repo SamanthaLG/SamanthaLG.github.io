@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(Fond.jpg);
+    background-size: cover;
+    
+}
+.resume{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: Lucida Calligraphy, sans-serif, serif;
+    
+}
+
+button{
+    font-size: 20px;
+}
+
+a:visited{
+    color: blue;
+}

@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(Fond.jpg);
+    background-size: cover;
+    
+}
+
+button{
+    font-size: 20px;
+}
+
+a:visited{
+    color: blue;
+}

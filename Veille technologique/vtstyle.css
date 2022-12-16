@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(Fond.jpg);
+    background-size: cover;
+    font-family: Lucida Calligraphy, sans-serif, serif;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
